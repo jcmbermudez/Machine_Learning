@@ -5,7 +5,7 @@ Created on Thu Apr  7 13:58:03 2016
 @author: bermudez
 """
 
-# This file contains some useful operations in Phyton, usually employing NumPy
+# This file  some useful operations in Phyton, usually employing NumPy
 
 # Importing the modules necessary for scientific calculations
 import numpy as np
